@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["blabla"]
 date = 2017-05-05T14:14:32Z
 image = "img/portfolio/bridge1.jpg"
 showonlyimage = false
