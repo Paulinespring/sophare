@@ -1,5 +1,5 @@
 baseurl = "https://friendly-meitner-b39a18.netlify.com"
-title = "SoPhare"
+title = "So Phare"
 theme = "hugo-nederburg-theme"
 languageCode = "fr-fr"
 # Enable comments by entering your Disqus shortname
@@ -22,18 +22,18 @@ paginate = 5 #frontpage pagination
 [params]
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
-  slogan = "A fast &amp; secure theme"
+  slogan = "Lumière sur votre contenu"
   description = "Describe your website" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
-  author = "Göran Svensson"
-  authorLink = "https://appernetic.io/"
+  author = "Pauline Plessier"
+  authorLink = "https://paulinespring.github.io/portfolio"
   bio = [
-    "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
+    "Göran is an avid blogger and the founder of <a href='https://paulinespring.github.io/portfolio/'>Appernetic.io</a>. This is the author bio shown after posts."
   ]
   copyright = [
-    "&copy; 2018 Göran Svensson",
-    "Nederburg Hugo Theme by [Appernetic](https://appernetic.io).",
-    "A port of Tracks by Compete Themes."
+    "&copy; 2019 So phare",
+    "By [Pauline Plessier](https://paulinespring.github.io/portfolio).",
+    "Fait par moi"
   ]
 
 
@@ -58,12 +58,12 @@ paginate = 5 #frontpage pagination
   weight = 1
 
   [[menu.main]]
-  name = "About"
+  name = "À propos"
   url = "about/"
   weight = 2
 
   [[menu.main]]
-  name = "Get in touch"
+  name = "Contact"
   url = "contact/"
   weight = 3
 
@@ -98,10 +98,10 @@ paginate = 5 #frontpage pagination
     pinterest     = "full profile url in pinterest"
 
     [params.writers."Göran Svensson"]
-    link = "https://appernetic.io/"
+    link = "https://paulinespring.github.io/portfolio/"
     email = "goran@molnsys.com"
     bio = [
-      "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
+      "Göran is an avid blogger and the founder of <a href='https://paulinespring.github.io/portfolio/'>Appernetic.io</a>. This is the author bio shown after posts."
     ]
     facebook      = "full Göran profile url in facebook"
     googleplus    = "full profile url in googleplus"
