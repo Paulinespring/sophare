@@ -1,5 +1,5 @@
-baseurl = "https://example.org/"
-title = "Nederburg"
+baseurl = "https://friendly-meitner-b39a18.netlify.com"
+title = "SoPhare"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
