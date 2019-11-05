@@ -1,7 +1,7 @@
 +++
 categories = ["hello"]
 date = 2017-12-25T14:23:42Z
-image = "img/portfolio/railroad-forest1.jpg"
+image = "uploads/header.jpg"
 showonlyimage = true
 title = "A Totally Response Theme"
 weight = 5
