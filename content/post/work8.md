@@ -4,7 +4,7 @@ image = "img/portfolio/camera1.jpg"
 showonlyimage = false
 title = "A Post with lot of comments"
 weight = "0"
-writer = "Göran Svensson"
+writer = ""
 
 +++
 Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
