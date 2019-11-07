@@ -1,5 +1,5 @@
 +++
-date = 2018-02-14T14:29:22Z
+date = ""
 image = "img/portfolio/camera1.jpg"
 showonlyimage = false
 title = "A Post with lot of comments"
