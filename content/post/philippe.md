@@ -1,6 +1,6 @@
 +++
-date = 2019-10-31T23:00:00Z
-image = "/uploads/header.jpg"
+date = ""
+image = ""
 showonlyimage = false
 title = "Rédacteur freelance "
 weight = 1
