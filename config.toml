@@ -22,7 +22,7 @@ paginate = 5 #frontpage pagination
 [params]
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
-  slogan = "Lumière sur votre contenu"
+  slogan = "Rédaction web et services SEO"
   description = "Describe your website" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = "Pauline Plessier"
