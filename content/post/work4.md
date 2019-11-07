@@ -1,6 +1,6 @@
 +++
 categories = ["code"]
-date = 2017-11-21T14:20:47Z
+date = ""
 image = ""
 showonlyimage = false
 title = "A post without an Image"
