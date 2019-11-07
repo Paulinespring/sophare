@@ -1,5 +1,5 @@
 +++
-date = 2019-11-06T23:00:00Z
+date = ""
 image = "/uploads/header.jpg"
 showonlyimage = false
 title = "Rédacteur web freelance "
