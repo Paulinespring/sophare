@@ -1,6 +1,6 @@
 +++
 categories = ["design"]
-date = 2016-11-05T14:11:01Z
+date = ""
 description = "Individual meta description for this post"
 image = "img/portfolio/logs1.jpg"
 showonlyimage = false
