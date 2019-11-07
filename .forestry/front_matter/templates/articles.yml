@@ -21,4 +21,5 @@ fields:
   name: weight
   label: weight
 pages:
+- content/rédacteur-freelance.md
 - content/post/philippe.md
