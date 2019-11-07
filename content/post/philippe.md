@@ -1,10 +1,10 @@
 +++
 date = 2019-10-31T23:00:00Z
-image = ""
+image = "/uploads/header.jpg"
 showonlyimage = false
-title = "Philippe"
+title = "Rédacteur freelance "
 weight = 1
-writer = "philippe"
+writer = "Pauline Plessier"
 
 +++
 blabla
