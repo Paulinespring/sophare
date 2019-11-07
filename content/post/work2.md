@@ -4,9 +4,9 @@ date = ""
 description = "Individual meta description for this post"
 image = "img/portfolio/logs1.jpg"
 showonlyimage = false
-title = "This is a Standard Post"
+title = ""
 weight = "0"
-writer = "Göran Svensson"
+writer = ""
 
 +++
 This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
