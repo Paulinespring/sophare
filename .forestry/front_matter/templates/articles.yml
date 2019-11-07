@@ -20,6 +20,7 @@ fields:
 - type: number
   name: weight
   label: weight
+  default: '0'
 pages:
 - content/post/philippe.md
 - content/accueil.md
