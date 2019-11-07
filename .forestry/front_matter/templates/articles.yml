@@ -22,4 +22,5 @@ fields:
   label: weight
   default: '0'
 pages:
+- content/post/home/rédacteur-web-freelance.md
 - content/accueil.md
