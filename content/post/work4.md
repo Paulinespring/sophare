@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["SEO"]
 date = ""
 image = ""
 showonlyimage = false
