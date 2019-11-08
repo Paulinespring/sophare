@@ -1,5 +1,5 @@
 +++
-categories = ["Rédaction web"]
+categories = ["code"]
 date = ""
 description = "Individual meta description for this post"
 image = "img/portfolio/logs1.jpg"
