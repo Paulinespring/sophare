@@ -2,7 +2,7 @@
 categories = ["rédaction web"]
 date = ""
 description = "contenu de qualité pour votre site, rédaction de contenu, stratégie de content marketing"
-image = "/uploads/header.jpg"
+image = "/uploads/content.jpg"
 showonlyimage = false
 title = "Rédaction d'un contenu de qualité pour votre site"
 weight = "0"
