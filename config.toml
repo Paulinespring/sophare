@@ -25,7 +25,7 @@ paginate = 5 #frontpage pagination
   slogan = "Rédaction web et services SEO"
   description = "Describe your website" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
-  author = "Pauline Plessier"
+  author = ""
   authorLink = "https://paulinespring.github.io/portfolio"
   bio = [
     "Göran is an avid blogger and the founder of <a href='https://paulinespring.github.io/portfolio/'>Appernetic.io</a>. This is the author bio shown after posts."
