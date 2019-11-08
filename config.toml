@@ -8,7 +8,7 @@ theme = "hugo-nederburg-theme"
 title = "So Phare"
 [[menu.main]]
 name = "Accueil"
-url = "/accueil"
+url = "accueil/"
 weight = 1
 [[menu.main]]
 name = "Contact"
