@@ -10,6 +10,8 @@ weight = "0"
 +++
 <!--more-->
 
+De la simple mise-à-jour à la création de contenu, je vous propose une rédaction de qualité qui répond aux critères exigeants de moteurs de recherche.
+
 * Rédaction d'articles ou de pages pour votre site
 
 
