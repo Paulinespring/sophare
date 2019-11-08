@@ -1,113 +1,68 @@
 baseurl = "https://sophare.fr"
-title = "So Phare"
-theme = "hugo-nederburg-theme"
-languageCode = "fr-fr"
-# Enable comments by entering your Disqus shortname
 disqusShortname = ""
-# Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+languageCode = "fr-fr"
+paginate = 5
 preserveTaxonomyNames = true
-paginate = 5 #frontpage pagination
-
-[privacy]
-  # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
-  [privacy.googleAnalytics]
-    # set to true to disable service 
-    disable = false
-    # set to true to meet General Data Protection Regulation (GDPR)
-    anonymizeIP = false
-    respectDoNotTrack = false
-    useSessionStorage = false
-
+theme = "hugo-nederburg-theme"
+title = "So Phare"
+[[menu.main]]
+name = "Accueil"
+url = "/accueil"
+weight = 1
+[[menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 3
+[[menu.main]]
+name = "À propos"
+url = "about/"
+weight = 2
 [params]
-  # Unmark to use post folder for images. Default is static folder.
-  #usepostimgfolder = true
-  slogan = "Rédaction web et services SEO"
-  description = "Describe your website" # meta description
-  # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
-  author = ""
-  authorLink = "https://paulinespring.github.io/portfolio"
-  bio = [
-    "Göran is an avid blogger and the founder of <a href='https://paulinespring.github.io/portfolio/'>Appernetic.io</a>. This is the author bio shown after posts."
-  ]
-  copyright = [
-    "&copy; 2019 So phare",
-    "By [Pauline Plessier](https://paulinespring.github.io/portfolio).",
-    "Fait par moi"
-  ]
-
-
-  # Contact page
-     # Since this template is static, the contact form uses www.formspree.io as a
-     # proxy. The form makes a POST request to their servers to send the actual
-     # email. Visitors can send up to a 1000 emails each month for free.
-     #
-     # What you need to do for the setup?
-     #
-     # - set your email address under 'email' below (it is also used in Gravatar for the bio).
-     # - upload the generated site to your server
-     # - send a dummy email yourself to confirm your account
-     # - click the confirm link in the email from www.formspree.io
-     # - you're done. Happy mailing!
-  email = "goran@molnsys.com"
-
-  # Nav links in the side bar
-  [[menu.main]]
-  name = "Accueil"
-  url = "/"
-  weight = 1
-
-  [[menu.main]]
-  name = "À propos"
-  url = "about/"
-  weight = 2
-
-  [[menu.main]]
-  name = "Contact"
-  url = "contact/"
-  weight = 3
-
-# this will also be in author bio if there is no writer.
-  [params.social]
-  facebook      = "full Social profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  pinterest     = "full profile url in pinterest"
-  rss           = true
-
-# Add a writer, then use it in the markdown front matter like this: writer = "Lukas Herman"
-  [params.writers]
-    [params.writers."Lukas Herman"]
-    link = "https://lherman.tk"
-    email = "lherman.cs@gmail.com"
-    bio = [
-      "Lukas has a few skills up his sleve. He can fly blindfolded under a bridge while simultanous writing blog posts."
-    ]
-    facebook      = "full lukas profile url in facebook"
-    googleplus    = "full profile url in googleplus"
-    twitter       = "full profile url in twitter"
-    linkedin      = "full profile url in linkedin"
-    stackoverflow = "full profile url in stackoverflow"
-    instagram     = "full profile url in instagram"
-    github        = "full profile url in github"
-    pinterest     = "full profile url in pinterest"
-
-    [params.writers."Göran Svensson"]
-    link = "https://paulinespring.github.io/portfolio/"
-    email = "goran@molnsys.com"
-    bio = [
-      "Göran is an avid blogger and the founder of <a href='https://paulinespring.github.io/portfolio/'>Appernetic.io</a>. This is the author bio shown after posts."
-    ]
-    facebook      = "full Göran profile url in facebook"
-    googleplus    = "full profile url in googleplus"
-    twitter       = "full profile url in twitter"
-    linkedin      = "full profile url in linkedin"
-    stackoverflow = "full profile url in stackoverflow"
-    instagram     = "full profile url in instagram"
-    github        = "full profile url in github"
-    pinterest     = "full profile url in pinterest"
+author = ""
+authorLink = "https://paulinespring.github.io/portfolio"
+bio = ["Göran is an avid blogger and the founder of <a href='https://paulinespring.github.io/portfolio/'>Appernetic.io</a>. This is the author bio shown after posts."]
+copyright = ["&copy; 2019 So phare", "By [Pauline Plessier](https://paulinespring.github.io/portfolio).", "Fait par moi"]
+description = "Describe your website"
+email = "goran@molnsys.com"
+slogan = "Rédaction web et services SEO"
+[params.social]
+email = "email@example.com"
+facebook = "full Social profile url in facebook"
+github = "full profile url in github"
+googleplus = "full profile url in googleplus"
+instagram = "full profile url in instagram"
+linkedin = "full profile url in linkedin"
+pinterest = "full profile url in pinterest"
+rss = true
+stackoverflow = "full profile url in stackoverflow"
+twitter = "full profile url in twitter"
+[params.writers."Göran Svensson"]
+bio = ["Göran is an avid blogger and the founder of <a href='https://paulinespring.github.io/portfolio/'>Appernetic.io</a>. This is the author bio shown after posts."]
+email = "goran@molnsys.com"
+facebook = "full Göran profile url in facebook"
+github = "full profile url in github"
+googleplus = "full profile url in googleplus"
+instagram = "full profile url in instagram"
+link = "https://paulinespring.github.io/portfolio/"
+linkedin = "full profile url in linkedin"
+pinterest = "full profile url in pinterest"
+stackoverflow = "full profile url in stackoverflow"
+twitter = "full profile url in twitter"
+[params.writers."Lukas Herman"]
+bio = ["Lukas has a few skills up his sleve. He can fly blindfolded under a bridge while simultanous writing blog posts."]
+email = "lherman.cs@gmail.com"
+facebook = "full lukas profile url in facebook"
+github = "full profile url in github"
+googleplus = "full profile url in googleplus"
+instagram = "full profile url in instagram"
+link = "https://lherman.tk"
+linkedin = "full profile url in linkedin"
+pinterest = "full profile url in pinterest"
+stackoverflow = "full profile url in stackoverflow"
+twitter = "full profile url in twitter"
+[privacy.googleAnalytics]
+anonymizeIP = false
+disable = false
+respectDoNotTrack = false
+useSessionStorage = false
