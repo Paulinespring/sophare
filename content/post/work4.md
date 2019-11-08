@@ -1,5 +1,5 @@
 +++
-categories = ["SEO"]
+categories = ["design"]
 date = ""
 image = ""
 showonlyimage = false
