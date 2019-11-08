@@ -1,12 +1,14 @@
 +++
+categories = ["rédaction web"]
 date = ""
+description = "contenu de qualité pour votre site, rédaction de contenu, stratégie de content marketing"
 image = "/uploads/header.jpg"
 showonlyimage = false
 title = "Un contenu de qualité pour votre site"
-weight = 0
+weight = "0"
 
 +++
-This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone! <!--more-->
+  <!--more-->
 
 When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
 
