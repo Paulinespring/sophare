@@ -10,13 +10,13 @@ weight = "0"
 +++
 <!--more-->
 
+> De la simple mise-à-jour à la création de contenu, je vous propose une rédaction de qualité qui répond aux critères exigeants des moteurs de recherche. 
+
 * Rédaction d'articles ou de pages pour votre site
 
 
 * Rédaction de fiche-produits pour les sites e-commerce
 * Correction et réécriture de contenu
-
-> De la simple mise-à-jour à la création de contenu, je vous propose une rédaction de qualité qui répond aux critères exigeants des moteurs de recherche. 
 
 ## Header Level 2
 
