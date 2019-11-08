@@ -1,0 +1,22 @@
+---
+label: article standard
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: file
+  name: image
+  label: image
+- type: boolean
+  name: showonlyimage
+  label: showonlyimage
+- type: list
+  name: categories
+  label: categories
+- type: text
+  name: weight
+  label: weight
+- type: text
+  name: description
+  label: description
