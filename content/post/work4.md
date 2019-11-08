@@ -1,5 +1,5 @@
 +++
-categories = ["code"]
+categories = []
 date = ""
 image = ""
 showonlyimage = false
