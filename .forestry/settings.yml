@@ -5,18 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/about
-  label: About
-  create: all
-  match: "**/*"
-- type: directory
   path: content/contact
   label: Contact
   create: all
   match: "**/*"
 - type: directory
   path: content/about
-  label: Accueil
+  label: À propos
   create: all
   match: "**/*"
 upload_dir: static/uploads

@@ -18,5 +18,3 @@ fields:
   name: weight
   label: weight
   default: '0'
-pages:
-- content/post/une-meilleure-visibilité-sur-les-moteurs-de-recherche.md
