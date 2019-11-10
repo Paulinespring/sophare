@@ -9,6 +9,8 @@ sections:
   label: Accueil
   create: all
   match: "**/*"
+  templates:
+  - articles
 - type: directory
   path: content/about
   label: À propos
