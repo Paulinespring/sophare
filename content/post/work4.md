@@ -3,7 +3,7 @@ categories = ["design"]
 date = ""
 image = ""
 showonlyimage = false
-title = "Vous êtes perdus dans les méandres du référencement ? "
+title = "Vous vendez un produit ou un service? Je raconte une histoire... "
 weight = "2"
 writer = ""
 
