@@ -1,6 +1,6 @@
 +++
 categories = ["design"]
-date = ""
+date = 2019-11-10T23:00:00Z
 image = ""
 showonlyimage = false
 title = "Vous vendez un produit ou un service? Je raconte une histoire... "
