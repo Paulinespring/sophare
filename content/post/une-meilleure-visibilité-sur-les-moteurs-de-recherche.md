@@ -1,8 +1,8 @@
 +++
 date = ""
-image = "/uploads/analytics.png"
+image = ""
 showonlyimage = false
 title = "Une meilleure visibilité sur les moteurs de recherche"
-weight = 0
+weight = "2"
 
 +++
