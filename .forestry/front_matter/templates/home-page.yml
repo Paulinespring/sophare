@@ -1,0 +1,25 @@
+---
+label: Home page
+hide_body: false
+fields:
+- type: text
+  name: weight
+  label: weight
+- type: boolean
+  name: showonlyimage
+  label: showonlyimage
+- type: file
+  name: image
+  label: image
+- type: text
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: list
+  name: categories
+  label: categories
+- type: text
+  name: description
+  label: description
