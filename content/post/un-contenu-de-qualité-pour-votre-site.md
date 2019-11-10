@@ -5,7 +5,7 @@ description = "contenu de qualité pour votre site, rédaction de contenu, strat
 image = "/uploads/content.jpg"
 showonlyimage = false
 title = "Rédaction d'un contenu de qualité pour votre site"
-weight = "0"
+weight = "3"
 
 +++
 <!--more-->
