@@ -1,11 +1,11 @@
 +++
 categories = ["rédaction web"]
-date = 2019-11-10T23:00:00Z
-image = ""
+date = 2019-12-02T23:00:00Z
+image = "/img/redaction.jpg"
 showonlyimage = false
-title = "La rédaction web SEO"
+title = "Rédaction web SEO"
 weight = "2"
-writer = ""
+writer = "Pauline Plessier"
 
 +++
 ## Un contenu de qualité avec les bons mots !
