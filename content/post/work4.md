@@ -8,7 +8,7 @@ weight = "2"
 writer = "Pauline Plessier"
 
 +++
-### Un contenu de qualité avec les bons mots !
+## Un contenu de qualité avec les bons mots !
 
 Vous vendez un produit? Je raconte une histoire...
 
