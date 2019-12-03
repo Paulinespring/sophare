@@ -8,21 +8,20 @@ weight = "2"
 writer = "Pauline Plessier"
 
 +++
-## Un contenu de qualité avec les bons mots !
-
+### Un contenu de qualité avec les bons mots !
 
 <!--more-->
 
 Vous vendez un produit? Je raconte une histoire...
 
-Ayant un goût prononcé pour la rédaction, j'ai plaisir à écrire pour votre site. De la simple fiche produit à l'article de blog, je peux aussi reformuler vos idées en suivant une stratégie qui permettra d'optimiser au maximum votre position sur les moteurs de recherche. 
+Ayant un goût prononcé pour la rédaction, j'ai plaisir à écrire pour votre site. De la simple fiche produit à l'article de blog, je peux aussi reformuler vos idées en suivant une stratégie qui permettra d'optimiser au maximum votre position sur les moteurs de recherche.
 
-Quelque soit votre système de gestion de contenu, je m'y adapte en respectant votre image de marque.  
+Quelque soit votre système de gestion de contenu, je m'y adapte en respectant votre image de marque.
 
 Pour un contenu de qualité, 3 bonnes pratiques :
 
 1. Une orthographe irréprochable
-2. Une syntaxe précise 
+2. Une syntaxe précise
 3. Une bonne connaissance en référencement
 
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
