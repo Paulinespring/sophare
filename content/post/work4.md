@@ -10,8 +10,6 @@ writer = "Pauline Plessier"
 +++
 ### Un contenu de qualité avec les bons mots !
 
-<!--more-->
-
 Vous vendez un produit? Je raconte une histoire...
 
 Ayant un goût prononcé pour la rédaction, j'ai plaisir à écrire pour votre site. De la simple fiche produit à l'article de blog, je peux aussi reformuler vos idées en suivant une stratégie qui permettra d'optimiser au maximum votre position sur les moteurs de recherche.
