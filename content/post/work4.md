@@ -1,22 +1,29 @@
 +++
-categories = ["design"]
+categories = ["rédaction web"]
 date = 2019-11-10T23:00:00Z
 image = ""
 showonlyimage = false
-title = "Vous vendez un produit ou un service? Je raconte une histoire... "
+title = "La rédaction web SEO"
 weight = "2"
 writer = ""
 
 +++
-![](/uploads/header.jpg)Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+## Un contenu de qualité avec les bons mots !
+
+
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Vous vendez un produit? Je raconte une histoire...
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Ayant un goût prononcé pour la rédaction, j'ai plaisir à écrire pour votre site. De la simple fiche produit à l'article de blog, je peux aussi reformuler vos idées en suivant une stratégie qui permettra d'optimiser au maximum votre position sur les moteurs de recherche. 
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+Quelque soit votre système de gestion de contenu, je m'y adapte en respectant votre image de marque.  
+
+Pour un contenu de qualité, 3 bonnes pratiques :
+
+1. Une orthographe irréprochable
+2. Une syntaxe précise 
+3. Une bonne connaissance en référencement
 
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
