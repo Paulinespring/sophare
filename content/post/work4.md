@@ -1,7 +1,7 @@
 +++
 categories = ["rédaction web"]
 date = 2019-12-02T23:00:00Z
-image = "/img/redaction.jpg"
+image = "/uploads/redaction.jpg"
 showonlyimage = false
 title = "Rédaction web SEO"
 weight = "2"
