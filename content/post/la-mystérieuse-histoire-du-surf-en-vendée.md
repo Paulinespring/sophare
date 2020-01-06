@@ -43,7 +43,7 @@ Attention, roulement de tambour....
 
 Eh bien par l'utilisation de mots-clés, pardi!
 
-Rappelez-vous, il faut être"bête et discipliné". Les algorithmes de Google sont eux-mêmes programmés pour trouver ces mots-clés. Un site web qui souhaite être visité doit donc adopter une bonne stratégie de mots-clés pour être pris en compte par les algos. Fastoche, me direz-vous...? Pas tant que ça. Cela exige un travail minutieux de recherche en la matière.   
+Rappelez-vous, il faut être"bête et discipliné". Les algorithmes de Google sont eux-mêmes programmés pour trouver ces mots-clés. Un site web qui souhaite être visité doit donc adopter une bonne stratégie de mots-clés pour être pris en compte par les algos. Fastoche, me direz-vous...? En fait, pas tant que ça. Cela exige un travail minutieux de recherche en la matière si l'on souhaite faire les choses bien.  
 
 #### La qualité technique du site
 
@@ -51,11 +51,13 @@ La qualité technique, c'est la "base" d'un site, ses fondations et ce sur quoi 
 
 En partant de ce principe, un site mal-codé (avec de mauvaises fondations) et/ou mal-hébergé (sur un terrain à risques) et dont le contenu est médiocre (l'aménagement intérieur), suscitera peu d'intérêt pour l'internaute, et donc pour les moteurs de recherche.
 
+La vitesse de chargement des pages influe aussi sur le référencement et bien-sûr, sur le comportement de l'utilisateur. 
+
 #### La qualité du contenu, Number 1 !
 
 Si le site présente un contenu de bonne qualité, l'internaute y passera du temps afin que sa requête soit satisfaite.
 
-Reprenons la métaphore de la maison : un aménagement épuré, décoré avec goût, qui utilise des matériaux de qualité et avec le soucis du détail sera nettement plus attrayant, non? C'est exactement ce qu'attend l'internaute d'un site web. Il veut s'y sentir bien et en sécurité ! Pour cela, une rédaction de contenu de qualité est nécessaire. C'est un travail de précision qui sera réalisé par le rédacteur web SEO.
+Reprenons la métaphore de la maison : un aménagement épuré, décoré avec goût, qui utilise des matériaux de qualité et avec le soucis du détail sera nettement plus attrayant, non? C'est exactement ce qu'attend l'internaute d'un site web. Il veut s'y sentir bien et en sécurité ! Pour cela, une rédaction de contenu de qualité est nécessaire. 
 
 #### La notoriété du site
 
