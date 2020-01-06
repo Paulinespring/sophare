@@ -11,7 +11,7 @@ weight = "1"
 +++
 ## Le SEO ou référencement naturel, c'est quoi?
 
-Le SEO (Search Engine Optimization) est une technique de manipulation des algorithmes qui orientent les moteurs de recherche tels que Google ou autres. De ce fait, ce sont ces algorithmes qui vont conditionner le positionnement d'un site internet sur ces moteurs de recherche : lorsque l'internaute tape une requête, il se limitera aux 3 premiers résultats en moyenne pour trouver sa réponse. Il est donc essentiel de comprendre leur fonctionnement pour être bien référencé.
+Le SEO (Search Engine Optimization) est une technique de manipulation des algorithmes qui orientent les moteurs de recherche tels que Google ou autres. De ce fait, ce sont ces algorithmes qui vont conditionner le positionnement d'un site internet sur ces moteurs de recherche : lorsque l'internaute tape une requête, il se limitera en général aux 3 premiers résultats pour trouver sa réponse. Il est donc essentiel de comprendre leur fonctionnement pour être bien référencé.
 
 ### Quels critères pour booster son référencement?
 
