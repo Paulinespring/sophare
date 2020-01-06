@@ -1,35 +1,36 @@
 +++
-categories = ["sports de glisse"]
+categories = []
 date = 2019-11-17T23:00:00Z
 description = "contenu de qualité pour votre site, rédaction de contenu, stratégie de content marketing"
 draft = true
 image = ""
 showonlyimage = false
-title = "La mystérieuse histoire du surf en Vendée"
+title = "Le SEO ou référencement naturel"
 weight = "1"
 
 +++
-Ambiance années 60. Les Beach Boys en fond sonore. Des femmes à la silhouette de sirène bronzent sur les plage dans leurs élégants maillots de bain vintage, admirant les (demis-dieux) tout premiers surfeurs avec leurs chevelures blondes, longeant de jolies vagues scintillant sous les reflets du soleil d'été... n'est-ce pas...?
+## Le SEO ou référencement naturel, c'est quoi?
 
-Euh... non.
+Le SEO (Search Engine Optimization) est une technique de manipulation des algorithmes qui orientent les moteurs de recherche tels que Google ou autres. De ce fait, ce sont ces algorithmes qui vont conditionner le positionnement d'un site internet sur ces moteurs de recherche : lorsque l'internaute tape une requête, il voudra trouver sa réponse dans les 3 premiers résultats en moyenne . Il est donc essentiel de comprendre leur fonctionnement pour être bien référencé. 
 
-Dans les années 60, les plages de Vendée, ça ressemble plutôt à ça :
+### Quels critères pour booster son référencement?
 
-![](/uploads/vache plage .jpeg)
+Pour faire simple, les algorithmes de référencement analysent les pages d'un site web et les "notent" de manière qualitative selon qu'elles répondent ou non à leurs critères. Si les critères sont respectés, le site sera bien placé, et inversement. 
 
-Bon ok, c'est peut-être un peu exagéré. Mais on est bien loin de l'idylle californienne où le surf se démocratise et devient un véritable mode de vie.
+Selon Google et les spécialistes du référencement, les critères techniques de référencement sont de l'ordre de 200, dont une trentaine qui seraient incontournables : certains méritent donc plus d'attention que d'autres !
 
-Écoutez plutôt...
+### Les 4 notions-clés du référencement
 
-## Papachat
+Afin d'en faciliter la compréhension, voici 4 notions incontournables du SEO : 
 
-Derrière ce mystérieux surnom bien connu des locaux se cache le nom de celui qui fut le réel précurseur du surf sur les plages sauvages de Vendée, le bonhomme au style félin : Patrice Chatillon.
+* La qualité du contenu
+* La qualité technique du site 
+* La notoriété du site 
+* La satisfaction de l'internaute 
 
-Le Chat. Ce surnom reste inscrit à l'indélébile dans l'esprit de ceux qui ont grandi avec le surf comme doudou. Il a d'ailleurs toujours fait partie de mon champ lexical durant l'enfance. Je me rappelle qu'un certain mystère régnait autour du personnage ou du nom (ou bien les 2?), comme si l'on parlait d'une étrange figure semi-légendaire dont l'apparition était aussi rare qu'une éclipse solaire totale.
+####  La qualité du contenu, Number 1 !
 
-### Les débuts du chat
-
-Issu d'une famille traditionnelle parisienne, Patrice eut la chance de grandir avec un père précurseur dans le domaine du sport. Il eut aussi la chance de partir en vacances chaque année dans une petite commune de bord de mer en Vendée. 
+Lorsque l'internaute fait une recherche, il souhaite une réponse à son problème. Si le site présente un contenu de bonne qualité, il y a de grandes chances qu'il y passe du temps et que sa requête soit satisfaite. Pour cela, une bonne rédaction de contenu est nécessaire. 
 
 <!--more-->
 
