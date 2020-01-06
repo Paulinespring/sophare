@@ -15,7 +15,7 @@ Le SEO (Search Engine Optimization) est une technique de manipulation des algori
 
 ### Quels critères pour booster son référencement?
 
-Pour faire simple, les algorithmes de référencement analysent les pages d'un site web et les "notent" de manière qualitative selon qu'elles répondent ou non à leurs critères. Si les critères sont respectés, le site sera bien placé, et inversement. 
+Pour faire simple, le SEO, c'est "bête et discipliné" : on obéit aux algorithmes de référencement, qui sont un simple logiciel analysant les pages d'un site web et qui les "notent" de manière qualitative selon qu'elles répondent ou non à leurs critères. Si les critères sont respectés, le site sera bien placé, et inversement. 
 
 Selon Google et les spécialistes du référencement, les critères techniques de référencement sont de l'ordre de 200, dont une trentaine qui seraient incontournables : certains méritent donc plus d'attention que d'autres !
 
@@ -28,9 +28,17 @@ Afin d'en faciliter la compréhension, voici 4 notions incontournables du SEO :
 * La notoriété du site 
 * La satisfaction de l'internaute 
 
+#### La qualité technique du site
+
+La qualité technique, c'est la "base" d'un site, ses fondations et ce sur quoi elles se reposent. On peut imaginer une maison sur un terrain : la maçonnerie représente le sytème de codage, le terrain, l'hébergement de ce site, et enfin l'aménagement intérieur illustrerait son contenu.
+
+En partant de ce principe, un site mal-codé (avec de mauvaises fondations) et/ou mal-hébergé (sur un terrain à risques) et dont le contenu est médiocre (l'aménagement intérieur), suscitera peu d'intérêt pour l'internaute, et donc pour les moteurs de recherche. 
+
 ####  La qualité du contenu, Number 1 !
 
-Lorsque l'internaute fait une recherche, il souhaite une réponse à son problème. Si le site présente un contenu de bonne qualité, il y a de grandes chances qu'il y passe du temps et que sa requête soit satisfaite. Pour cela, une bonne rédaction de contenu est nécessaire. 
+Lorsque l'internaute fait une recherche, il souhaite avant tout une réponse à son problème. Si le site présente un contenu de bonne qualité, il y passera du temps afin que sa requête soit satisfaite. 
+
+Reprenons la métaphore de la maison : un aménagement épuré, décoré avec goût, avec des matériaux de qualité et un soucis du détail sera nettement plus attrayant, non? C'est exactement ce qu'attend l'internaute d'un site web. Il veut s'y sentir bien et en sécurité ! Pour cela, une rédaction de contenu de qualité est nécessaire. C'est un travail de précision qui sera réalisé par le rédacteur web SEO.
 
 <!--more-->
 
