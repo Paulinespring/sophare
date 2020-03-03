@@ -23,5 +23,4 @@ Pour un contenu de qualité, 3 bonnes pratiques :
 1. Une orthographe irréprochable
 2. Une syntaxe précise
 3. Une bonne connaissance en référencement
-
-![](/uploads/writing.png)J'édite vos newsletters avec bannière sur mesure et je lance votre campagne.
+4. J'édite vos newsletters avec bannière sur mesure et je lance votre campagne.
