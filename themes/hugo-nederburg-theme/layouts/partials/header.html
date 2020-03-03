@@ -1,7 +1,8 @@
 <div id="title-info" class="title-info">
+  <a class="navbar-brand" href="{{.Site.BaseURL}}"><img src="/img/logookja.png" alt="logo" class="logo-img"></a>
   <div id='site-title' class='site-title'>
     {{ if ( ne .Site.Title "" ) }}
-    <a href="{{ .Site.BaseURL | relLangURL }}"> {{ .Site.Title }} </a>
+    <a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Title }} </a>
     {{ end }}</div>
   </div>
   <button id="toggle-navigation" class="toggle-navigation">

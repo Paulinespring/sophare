@@ -22,6 +22,12 @@ Tracks is distributed under the terms of the GNU GPL
   line-height: 1.85;
 }
 
+.logo-img {
+width: 202px;
+height: 100px;
+opacity: 1;
+}
+
 .wp-caption-text, .excerpt-meta, .entry-meta, .more-link, .pagination, .further-reading span,
 .further-reading a,
 .entry-categories span,
@@ -69,7 +75,7 @@ body {
   font-family: "raleway", sans-serif;
   line-height: 1.5;
   color: #4d4d4d;
-  background: #222;
+  background:#aec4c55c;
   -webkit-font-smoothing: antialiased;
   word-wrap: break-word;
   -ms-word-wrap: break-word;
@@ -83,7 +89,7 @@ body {
 }
 
 .main {
-  background: #222;
+  background: #aec4c55c;
   padding-bottom: 1.5em;
   margin: 0 auto;
 }

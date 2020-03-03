@@ -21,6 +21,12 @@ Tracks is distributed under the terms of the GNU GPL
   line-height: 1.85;
 }
 
+.logo-img {
+  width: 202px;
+  height: 100px;
+  opacity: 1;
+  }
+  
 .wp-caption-text, .excerpt-meta, .entry-meta, .more-link, .pagination, .further-reading span,
 .further-reading a,
 .entry-categories span,
@@ -68,7 +74,7 @@ body {
   font-family: "raleway", sans-serif;
   line-height: 1.5;
   color: #4d4d4d;
-  background: #38312f;
+  background: #e5ebf3 !important;
   -webkit-font-smoothing: antialiased;
   word-wrap: break-word;
   -ms-word-wrap: break-word;
@@ -82,7 +88,7 @@ body {
 }
 
 .main {
-  background: #38312f;
+  background: #e5ebf3;
   padding-bottom: 1.5em;
   margin: 0 auto;
 }
@@ -549,7 +555,7 @@ a img {
 .menu-unset > ul a,
 .menu-primary-items a {
   display: block;
-  color: white;
+  color: rgb(26, 45, 66, 1);
   opacity: 0.6;
   margin: 1.5em 0 0.75em 0;
   -webkit-backface-visibility: hidden;
@@ -562,7 +568,7 @@ a img {
 .menu-unset > ul a:link, .menu-unset > ul a:visited,
 .menu-primary-items a:link,
 .menu-primary-items a:visited {
-  color: white;
+  color:rgb(26, 45, 66, 1);
 }
 .menu-unset > ul a:hover, .menu-unset > ul a:active, .menu-unset > ul a:focus,
 .menu-primary-items a:hover,
@@ -691,7 +697,7 @@ a img {
     position: absolute;
     right: -6px;
     top: 0;
-    color: white;
+    color:#3b505f;
     opacity: 0.6;
   }
   .menu-unset > ul > li:last-child:after,
@@ -1518,16 +1524,16 @@ li.pingback:first-child {
 }
 
 .design-credit {
-  background: #110800;
-  color: #8c8c8c;
+  background: #112844;
+  color: #aec2c5;
   padding: 0.75em 0;
   margin-top: 48px;
 }
 .design-credit a {
-  color: #8c8c8c;
+  color: #aec2c5;
 }
 .design-credit a:link, .design-credit a:visited {
-  color: #8c8c8c;
+  color: #aec2c5;
 }
 .design-credit a:hover, .design-credit a:active, .design-credit a:focus {
   color: #aaaaaa;
@@ -1882,7 +1888,7 @@ li.pingback:first-child {
   left: -6%;
   width: 112%;
   min-height: 3em;
-  background: #110800;
+  background:  #a0dfdb;
   padding: 0.375em 5.55%;
   margin: -0.75em 0 0;
   line-height: 0;
@@ -1955,7 +1961,7 @@ li.pingback:first-child {
   left: 0;
   padding: 1.5em;
   margin: 0;
-  background: #110800;
+  background: #112844;
   -webkit-transition: all 0.3s ease;
           transition: all 0.3s ease;
 }
