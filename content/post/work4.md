@@ -32,7 +32,7 @@ Vendée = probablement l'un des départements les plus conservateurs (pour ne pa
 
 ### The problem is...
 
-1. Le gouvernement a laissé implicitement la possibilité à des personnes (bien qu'irresponsables) de délocaliser hors de la ville, en laissant un lapse de temps trop important entre l'annonce de la mesure et la mesure elle-même (comme si un virus faisait la trêve, "Non mais je vous dis..." comme dirait Papi)
+1. Le gouvernement a laissé implicitement la possibilité à des personnes (bien qu'irresponsables) de délocaliser hors de la ville, en laissant un lapse de temps trop important entre l'annonce de la mesure et la mesure elle-même (comme si un virus faisait la trêve, "Beh je vous dis..." comme dirait Papi)
 2. À l'heure où la désertification médicale bat son plein dans notre belle "province" (j'adore ce mot, il y les parisiens, et il y a les provinciaux, les "autres" quoi...), ces flux effraient le personnel médical qui, a juste titre, alertent sur l'incapacité de leurs structures et leur manque d'effectif pour prendre en charge autant de monde si contamination il y'a .
 3. Non mais sans déconner? Des balades à vélo et des promenades en famille les gars? À lézarder sur la plage comme un 15 août? Sea, Sex and Sun, #monconfinement#mesvacances? Z'avez oublié votre cerveau en quittant la ville ou quoi? Pour peu que vous en ayez un... Tu m'étonnes que vous soyez mal vu !
 
