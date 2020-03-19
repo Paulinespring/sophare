@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Société"]
 date = 2020-03-18T23:00:00Z
 image = "/uploads/solidarite.jpg"
 showonlyimage = false
@@ -8,7 +8,6 @@ weight = "2"
 writer = "Pauline Plessier"
 
 +++
-
 "C'est dingue tous ces gens qui se prennent pour des exceptions..."
 
 <!--more-->
