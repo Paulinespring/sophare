@@ -64,7 +64,6 @@ background-size: 11.1%; /* This is at 6-columns -> just change this # */
 /* apply a natural box layout model to all elements */
 *, *:before, *:after {
   box-sizing: border-box;
-  padding-top: 8px;
 }
 
 body {
