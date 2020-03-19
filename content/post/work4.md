@@ -8,9 +8,10 @@ weight = "2"
 writer = "Pauline Plessier"
 
 +++
-<!--more-->
 
 > "C'est dingue tous ces gens qui se prennent pour des exceptions..."
+
+<!--more-->
 
 Voilà la phrase que j'ai retenue lors la dernière conversation téléphonique avec ma soeur (en ôtant les injures, hum hum).
 
