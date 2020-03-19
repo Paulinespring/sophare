@@ -52,6 +52,6 @@ Vous n'êtes pas une exception, et moi non plus. Personne n'en est une.
 
 ### Réflexion sur la nature humaine
 
-C'est dans ces moments-là que la nature humaine montre toutes faces, pour le meilleur et pour le pire : d'un côté, une extraordinaire solidarité avec un esprit communautaire remarquable, et de l'autre, un égoïsme et/ou une inconscience sans pareil(le), résultat de notre société qui s'est donnée tant de mal pour que nous arrivions là, nous crétins d'êtres humains. 
+C'est dans ces moments-là que la nature humaine montre toutes faces, pour le meilleur et pour le pire : d'un côté, une extraordinaire solidarité avec un esprit communautaire remarquable, et de l'autre, un égoïsme et/ou une inconscience sans pareil(le), résultat de notre société qui s'est donnée tant de mal pour que nous arrivions là, nous crétins d'êtres humains. Et puis sans parler de cette peur qui entretient un climat propice à la montée des extrêmes. 
 
 J'aurais certainement moi aussi été tentée de partir de la ville, si j'en avais eu la possibilité... mais peut-être que j'aurais réfléchi avant d'agir en utilisant mon cortex préfrontal...
