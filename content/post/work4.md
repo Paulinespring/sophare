@@ -22,18 +22,22 @@ Dans la petite "province" de bord de mer où je vis, et où prospèrent en cette
 
 Et histoire de bien faire monter l'esprit de localisme en puissance (comme si Marine Le Pen au premier tour avec Marcon c'était pas suffisant), et vas-y que je fais  des balades à vélo, des promenades en famille, ahaha c'est génial les vacances...  Bref, comment tendre le bâton pour se faire battre.
 
-Qui a tort / Qui a raison?
+**Qui a tort / Qui a raison?**
 
-Petit rappel :
+_Petit rappel :_
 
-Paris = 2e région la plus touchée par le virus, après l'Est de la France.
+**Paris =** **2e région la plus touchée par le virus, après l'Est de la France.**
 
-Vendée = probablement l'un des départements les plus conservateurs (pour ne pas dire chauvin) de France.
+**Vendée = probablement l'un des départements les plus conservateurs (pour ne pas dire chauvin) de France.**
 
 ### The problem is...
 
 1. Le gouvernement a laissé implicitement la possibilité à des personnes (bien qu'irresponsables) de délocaliser hors de la ville, en laissant un lapse de temps trop important entre l'annonce de la mesure et la mesure elle-même (comme si un virus faisait la trêve, "Beh je vous dis..." comme dirait Papi)
+
+   ***
 2. À l'heure où la désertification médicale bat son plein dans notre belle "province" (j'adore ce mot, il y les parisiens, et il y a les provinciaux, les "autres" quoi...), ces flux effraient le personnel médical qui, a juste titre, alertent sur l'incapacité de leurs structures et leur manque d'effectif pour prendre en charge autant de monde si contamination il y'a .
+
+   ***
 3. Non mais sans déconner? Des balades à vélo et des promenades en famille les gars? À lézarder sur la plage comme un 15 août? Sea, Sex and Sun, #monconfinement#mesvacances? Z'avez oublié votre cerveau en quittant la ville ou quoi? Pour peu que vous en ayez un... Tu m'étonnes que vous soyez mal vu !
 
 ### So what happens next...
@@ -44,4 +48,10 @@ Comme ils disent, il y a un "avant" et il y aura un "après" coronavirus. C'est 
 
 Mesdames et Messieurs, vous qui êtes venus des villes pour vivre mieux votre confinement à la campagne, maintenant que vous êtes là, faites-vous discret et s'il vous plaît, respectez au maximum les règles d'hygiène pour aller faire vos courses, c'est la moindre des choses, n'est-ce pas?
 
-Vous n'êtes pas une exception, et moi non plus.
+Vous n'êtes pas une exception, et moi non plus. Personne n'en est une. 
+
+### Réflexion sur la nature humaine
+
+C'est dans ces moments-là que la nature humaine montre toutes faces, pour le meilleur et pour le pire : d'un côté, une extraordinaire solidarité avec un esprit communautaire remarquable, et de l'autre, un égoïsme et/ou une inconscience sans pareil(le), résultat de notre société qui s'est donnée tant de mal pour que nous arrivions là, nous crétins d'êtres humains. 
+
+J'aurais certainement moi aussi été tentée de partir de la ville, si j'en avais eu la possibilité... mais peut-être que j'aurais réfléchi avant d'agir en utilisant mon cortex préfrontal...
