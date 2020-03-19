@@ -40,7 +40,7 @@ _Petit rappel :_
 
 ***
 
-* Non mais sans déconner? Des balades à vélo et des promenades en famille les gars? À lézarder sur la plage comme un 15 août? Sea, Sex and Sun, #monconfinement#mesvacances? Z'avez oublié votre cerveau en quittant la ville ou quoi? Pour peu que vous en ayez un... Tu m'étonnes que vous soyez mal vu !
+* Non mais sans déconner? Des balades à vélo et des promenades en famille les gars? À lézarder sur la plage comme un 15 août? Sea, Sex and Sun, #monconfinement#mesvacances posté sur Insta? Z'avez oublié votre cerveau en quittant la ville ou quoi? Pour peu que vous en ayez un... Tu m'étonnes que vous soyez mal vu !
 
 ### So what happens next...
 
