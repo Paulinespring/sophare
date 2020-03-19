@@ -9,7 +9,7 @@ writer = "Pauline Plessier"
 
 +++
 
-> "C'est dingue tous ces gens qui se prennent pour des exceptions..."
+"C'est dingue tous ces gens qui se prennent pour des exceptions..."
 
 <!--more-->
 
