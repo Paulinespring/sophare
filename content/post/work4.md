@@ -11,11 +11,11 @@ writer = "Pauline Plessier"
 
 > "C'est dingue tous ces gens qui se prennent pour des exceptions..."
 
-<!--more-->
-
 Voilà la phrase que j'ai retenue lors la dernière conversation téléphonique avec ma soeur (en ôtant les injures, hum hum).
 
 ### Confinement #J3
+
+<!--more-->
 
 Dans le contexte de la pandémie mondiale du virus COVID19,  le gouvernement français a annoncé le confinement total de la population à partir du mardi 17 mars, **à partir de midi** (notion importante, nous y reviendrons), pour une durée de 2 semaines minimum.
 
